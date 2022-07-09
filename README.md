@@ -6,12 +6,11 @@
 
 - Signup and Login Page. - users will be able to sign up and log in to the application and access other features.
 - Home page - display recipe data from /api/recipes/v2 endpoint.
-- Pagination when displaying the data.
+- Lazy loading when displaying the data.
 - Search recipe functionality.
 - A page to view other details of a specific recipe.
-- Reusable components for your application.
 - Logout functionality.
-- Lazu Loading List (New)
+- Lazy Loading List (New)
 - Vue Toast (New)
 - Clean and organized code. 
 
