@@ -25,7 +25,7 @@ npm run serve
 
 - A web application that consumes data coming from https://www.edamam.com/  API.
 - Read the documentation for the API nutrition analysis, food database, and recipe search API.
-- There are bugs in the application (Contributions are welcome)
+- The application contains some bugs. (Contributions are welcome)
 
 
 ### Customize configuration
