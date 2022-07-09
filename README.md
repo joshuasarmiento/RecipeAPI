@@ -1,10 +1,5 @@
 # Recipe API (VUE JS / FIREBASE / TAILWINDCSS)
 
-## Notes
-
-- A web application that consumes data coming from https://www.edamam.com/  API.
-- Read the documentation for the API nutrition analysis, food database, and recipe search API.
-
 ## Features
 
 - Signup and Login Page. - users will be able to sign up and log in to the application and access other features.
@@ -24,6 +19,12 @@ git clone git@github.com:joshuasarmiento/RecipeAPI.git
 npm install
 npm run serve
 ```
+
+## Notes
+
+- A web application that consumes data coming from https://www.edamam.com/  API.
+- Read the documentation for the API nutrition analysis, food database, and recipe search API.
+- There are bugs in the application (Contributions are welcome)
 
 
 ### Customize configuration

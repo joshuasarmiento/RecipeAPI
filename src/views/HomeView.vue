@@ -26,7 +26,7 @@
     <div v-else class="">
         <LazyList class="pt-10" :data="totalVuePackages" :itemsPerRender="10" containerClasses="list" defaultLoadingColor="#222">
             <template :slot:item="recipe" class="mx-4 xl:mx-4 md:mx-0 xs:mx-0 grid grid-cols-2 md:grid-cols-2 sm:grid-cols-1 xs:grid-cols-1 gap-4 sm:gap-1 xs:gap-1 place-items-center ">
-                <div v-for="recipe of totalVuePackages" :key="recipe.recipe" class="card card-compact w-96 bg-base-100 shadow-xl">
+                <div v-for="recipe of totalVuePackages" :key="recipe.recipe" class="card card-compact w-96 sm:w-full xs:w-full bg-base-100 shadow-xl">
                     <figure><img class="img" :src="recipe.recipe.image" :alt="recipe.recipe.label" /></figure>
                     <div class="card-body">
                         <h2 class="card-title">{{recipe.recipe.label}}</h2>
