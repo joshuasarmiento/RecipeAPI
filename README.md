@@ -14,6 +14,8 @@
 - A page to view other details of a specific recipe.
 - Reusable components for your application.
 - Logout functionality.
+- Lazu Loading List (New)
+- Vue Toast (New)
 - Clean and organized code. 
 
 ## Installation

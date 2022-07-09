@@ -2,7 +2,7 @@
 <main class="flex justify-center items-center">
     <div></div>
     <div class="mockup-code w-fit text-left">
-      <pre data-prefix="#"><code>Features</code></pre>
+        <pre data-prefix="#"><code>Features</code></pre>
         <pre data-prefix="#" class="text-info"><code>Create a web application that consumes data coming from <a href="https://www.edamam.com/" target="__blank" rel="noopener" class="link">https://www.edamam.com/</a>  API.</code></pre>
         <pre data-prefix="#" class="text-info"><code>Create Signup and Login Page</code></pre>
         <pre data-prefix="#" class="text-info"><code>Create home page - display recipe data from /api/recipes/v2 endpoint.</code></pre>
@@ -19,6 +19,9 @@
         <pre data-prefix=">" class="text-info"><code><a href="https://firebase.google.com/" target="__blank" rel="noopener" class="link no-underline" a>Firebase</a></code></pre>
         <br>
         <pre data-prefix="#"><code>Installation</code></pre>
+        <pre data-prefix=">" class="text-info"><code>git clone git@github.com:joshuasarmiento/RecipeAPI.git</code></pre>
+        <pre data-prefix=">" class="text-info"><code>npm install</code></pre>
+        <pre data-prefix=">" class="text-info"><code>npm run serve</code></pre>
     </div>
 </main>
 </template>
