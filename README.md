@@ -1,5 +1,7 @@
 # Recipe API (VUE JS / FIREBASE / TAILWINDCSS)
 
+![RecipeApi](https://github.com/joshuasarmiento/RecipeAPI/blob/main/src/assets/edaman.png)
+
 ## Features
 
 - Signup and Login Page. - users will be able to sign up and log in to the application and access other features.
