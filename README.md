@@ -2,6 +2,10 @@
 
 ![RecipeApi](https://github.com/joshuasarmiento/RecipeAPI/blob/main/src/assets/edaman.png)
 
+## Demo Link
+
+Click [here](https://62d27870a9a7385cc93358a3--jocular-bavarois-008dc0.netlify.app/#/)
+
 ## Features
 
 - Signup and Login Page. - users will be able to sign up and log in to the application and access other features.
