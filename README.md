@@ -4,7 +4,7 @@
 
 ## Demo Link
 
-Click [here](https://62d27870a9a7385cc93358a3--jocular-bavarois-008dc0.netlify.app/#/)
+Click [https://jocular-bavarois-008dc0.netlify.app/#/login](https://jocular-bavarois-008dc0.netlify.app/#/login)
 
 ## Features
 
